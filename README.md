@@ -2,7 +2,7 @@
 <p>
 <a href="https://www.youtube.com/watch?v=xPqo_QmMCmM"><img src="http://i3.ytimg.com/vi/xPqo_QmMCmM/maxresdefault.jpg" width="350"/></a>
 </p>
-This tutorial helps you to be able to implement how to open a PDF file. 
+This Tutorial helps you to be able to implement how to open a PDF file. 
 
 By the end of this video, you will be able to build a simple iOS app and able to open a PDF file!
 
@@ -14,7 +14,7 @@ Be Sure to Like and SUBSCRIBE SWIFT Hub Channel! www.youtube.com/swifthub
 https://www.youtube.com/watch?v=OE8YDGDoHXk&t=51s
 
 ▽ Previous Tutorial ►  https://www.youtube.com/watch?v=OE8YDGDoHXk
-<br
+<br><br>
 ▽ CONTENT VIDEO ► PLAYLIST ► https://www.youtube.com/playlist?list=PLnACRTdaE5L6XTB7bGyBFnEoXVrGBCq75
 <br>
 <br>
@@ -24,6 +24,6 @@ GITHUB ► https://github.com/swifthub9<br>
 INSTAGRAM ► https://www.instagram.com/swifthub/<br>
 Twitter ► https://twitter.com/Hub_SWIFT<br>
 GOOGLE+ ► https://plus.google.com/u/1/b/108964414905390559873/108964414905390559873 <br>
-Visit SWIFT Hub WebSite ► https://unitedlearn0.wixsite.com/swifthub<br>
+Visit SWIFT Hub WebSite ► https://unitedlearn0.wixsite.com/swifthub <br>
 
 ▽ WATCH MORE TUTORIALS IN FUTURE SUBSCRIBE SWIFT HUB CHANNEL ►https://www.youtube.com/swifthub
