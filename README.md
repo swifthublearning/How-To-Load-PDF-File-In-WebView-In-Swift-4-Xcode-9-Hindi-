@@ -19,11 +19,11 @@ https://www.youtube.com/watch?v=OE8YDGDoHXk&t=51s
 <br>
 <br>
 # FOLLOW <br>
-# FACEBOOK ► https://www.facebook.com/SwiftHub/<br>
-# GITHUB ► https://github.com/swifthub9<br>
-# INSTAGRAM ► https://www.instagram.com/swifthub/<br>
-# Twitter ► https://twitter.com/Hub_SWIFT<br>
-# GOOGLE+ ► https://plus.google.com/u/1/b/108964414905390559873/108964414905390559873 <br>
-# Visit SWIFT Hub WebSite ► https://unitedlearn0.wixsite.com/swifthub <br>
+FACEBOOK ► https://www.facebook.com/SwiftHub/<br>
+GITHUB ► https://github.com/swifthub9<br>
+INSTAGRAM ► https://www.instagram.com/swifthub/<br>
+Twitter ► https://twitter.com/Hub_SWIFT<br>
+GOOGLE+ ► https://plus.google.com/u/1/b/108964414905390559873/108964414905390559873 <br>
+Visit SWIFT Hub WebSite ► https://unitedlearn0.wixsite.com/swifthub <br>
 
 ▽ WATCH MORE TUTORIALS IN FUTURE SUBSCRIBE SWIFT HUB CHANNEL ►https://www.youtube.com/swifthub
